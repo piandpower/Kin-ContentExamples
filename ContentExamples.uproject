@@ -1,8 +1,14 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.15",
+	"EngineAssociation": "{FCC1688A-4DEA-7E76-781C-888DC51BFDB2}",
 	"Category": "Samples",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "LeapMotion",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"MacNoEditor",
 		"WindowsNoEditor"
